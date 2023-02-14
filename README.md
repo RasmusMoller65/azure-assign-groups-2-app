@@ -1,0 +1,1 @@
+# azure-assign-groups-2-app
